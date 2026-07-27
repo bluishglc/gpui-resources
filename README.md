@@ -1,6 +1,6 @@
 # Rust 桌面应用开发框架 GPUI 学习资源汇总
 
-## 1. 博客 & 网文
+## 1. 文章
 
 - [GPUI 框架介绍 (Zed 开发文档)](https://docsmith.aigne.io/docs/zed/zh/architectural-concepts-gpui-framework-ae8f50)
 - [全网首份 GPUI 开发者教程](https://juejin.cn/post/7654035124250804258)
