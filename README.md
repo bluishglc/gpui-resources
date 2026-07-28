@@ -10,7 +10,11 @@
 - [GPUI Interactivity - Building a Counter App](https://blog.0xshadow.dev/posts/learning-gpui/gpui-interactivity/)
 - [Building a Todo App with GPUI](https://blog.0xshadow.dev/posts/learning-gpui/gpui-todo-app/)
 
-## 2. 书籍
+## 2. 项目
+
+- [GPUI 官方示例](https://github.com/zed-industries/zed/tree/main/crates/gpui/examples)
+
+## 3. 书籍
 
 - [gpui-book](https://matinaniss.github.io/gpui-book/introduction.html)
   
