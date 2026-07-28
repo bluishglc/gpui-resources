@@ -2,6 +2,7 @@
 
 ## 1. 文章
 
+- [Rust GPUI 桌面应用开发入门：创建项目和概念讲解](https://blog.csdn.net/bluishglc/article/details/163251397)
 - [GPUI 框架介绍 (Zed 开发文档)](https://docsmith.aigne.io/docs/zed/zh/architectural-concepts-gpui-framework-ae8f50)
 - [全网首份 GPUI 开发者教程](https://juejin.cn/post/7654035124250804258)
 - [My studies on GPUI #1 Entity](https://bntw.dev/zh/blog/gpui-entity)
