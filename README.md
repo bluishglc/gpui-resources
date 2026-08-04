@@ -4,7 +4,7 @@
 
 - [Rust GPUI 桌面应用开发入门：创建项目和概念讲解](https://blog.csdn.net/bluishglc/article/details/163251397)
 - [Rust GPUI 桌面应用开发入门：界面交互和事件响应](https://laurence.blog.csdn.net/article/details/163341005)
-- [GPUI 中的所有权与数据流](https://zed.rust-lang.net.cn/blog/gpui-ownership)
+- [Zed 官方博客：GPUI 的所有权与数据流（注释精讲版）](https://blog.csdn.net/bluishglc/article/details/163478587)
 - [GPUI 框架介绍 (Zed 开发文档)](https://docsmith.aigne.io/docs/zed/zh/architectural-concepts-gpui-framework-ae8f50)
 - [基于GPUI框架构建现代化待办事项应用：从架构设计到业务落地](https://blog.csdn.net/qq_45515182/article/details/160158197)
 - [GPUI：Zed 编辑器背后的高性能 UI 框架](https://wsafight.github.io/personBlog/posts/gpui/)
